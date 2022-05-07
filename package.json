@@ -1,0 +1,28 @@
+{
+  "name": "taller_5_canteras_2_sofka",
+  "version": "1.0.0",
+  "description": "Homework 5, of Canteras 2 Sofka U, server in NodeJS and Express",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reneabadia"
+  },
+  "keywords": [
+    "NodeJS",
+    "Express"
+  ],
+  "author": "Rene Abadia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
